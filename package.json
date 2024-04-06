@@ -1,0 +1,25 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "android": "react-native run-android"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RetrodanielKR/Stack.git"
+  },
+  "author": "Daniel Olarte & Jorge Urmendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RetrodanielKR/Stack/issues"
+  },
+  "homepage": "https://github.com/RetrodanielKR/Stack#readme",
+  "dependencies": {
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/stack": "^6.3.29",
+    "react-native": "^0.73.6"
+  }
+}
